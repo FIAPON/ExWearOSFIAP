@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "589568310634",
+    "firebase_url": "https://exwearosfiap.firebaseio.com",
+    "project_id": "exwearosfiap",
+    "storage_bucket": "exwearosfiap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589568310634:android:e28135ed402d1760ceb913",
+        "android_client_info": {
+          "package_name": "com.estudo.android.exwearosfiap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589568310634-133ei99vda25ag9es38iojvr1i6uk6jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwsqL7VejB5eJZa011rKDvmKcr0PfZnCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589568310634-133ei99vda25ag9es38iojvr1i6uk6jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
