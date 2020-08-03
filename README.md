@@ -1,4 +1,10 @@
-# ExWearOSFIAP
-Projeto de exemplo com funcionalidades comuns em uma aplicação WearOS.
+# Introdução ao Wear OS
 
-Este projeto faz parte do Capítulo Wear OS do FIAP ON.
+Este projeto apresenta os principais conceitos no desenvolvimento de uma aplicação para smartwatches, compreendendo:
+
+* Ações de confirmação temporizadas
+* Notificações
+* Notificações push
+* Geolocalização
+* Multimídia
+* Interface com API externa Restful
