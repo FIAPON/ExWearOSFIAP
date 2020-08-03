@@ -1,4 +1,4 @@
-# Introdução ao Wear OS
+# Introdução ao Wear OS ⌚
 
 Este projeto apresenta os principais conceitos no desenvolvimento de uma aplicação para smartwatches, compreendendo:
 
